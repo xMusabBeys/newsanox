@@ -1,0 +1,6 @@
+mainprefix: '-'
+token: 'ODAwMzA2ODIxMzYxMTcyNDkx.YAQNzw.oeQ6WfJWAHxlFnTX4rJG5AgFg2c' 
+status: 'n!help | beta 0.1'
+dpunishment: 'ban'  ## ITS WILL GIVES ERROR IF THIS WAS EMPTY!
+### dpunishment >> DEFALUT punishment  
+### [punishment List:] 'roleremove', 'ban', 'kick'
